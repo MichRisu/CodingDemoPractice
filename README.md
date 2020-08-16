@@ -1,2 +1,2 @@
-# CodingDemoPratice
+# CodingDemoPractice
 PreWork
